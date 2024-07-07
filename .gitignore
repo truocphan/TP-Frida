@@ -1,0 +1,10 @@
+*
+!/.gitignore
+!/LICENSE
+!/MANIFEST.in
+!/README.md
+!/requirements.txt
+!/SECURITY.md
+!/setup.py
+!/TP_Frida/
+!/TP_Frida/__init__.py
